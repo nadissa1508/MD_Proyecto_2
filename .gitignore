@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+X_test_pca.npy
+X_train_pca.npy
+pca_model.skops
+scaler.skops
+y_test.npy
+y_train.npy
